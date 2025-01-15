@@ -15,3 +15,13 @@ y la aplicación móvil. Además, se evaluar´a el rendimiento del sistema, midi
 tasa de fotogramas por segundo (FPS), el uso de memoria RAM y el ancho de banda necesario para la
 transmisión de datos, lo que permitirá analizar la viabilidad de este enfoque para aplicaciones en tiempo
 real.
+
+## Arquitectura
+
+![Arquitectura empleada](images/as.png)
+
+## Aplicación
+![Aplicación Móvil](images/aw.jpg)
+
+## Rendimiento
+![Rendimiento](images/3.jpg)
